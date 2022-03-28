@@ -1,0 +1,108 @@
+{
+  "Header": {
+    "title": "First React Landing Page",
+    "paragraph": "Proin volutpat molestie magna, aliquet molestie risus ullamcorper quis. Phasellus id elementum leo, ut rhoncus augue. Vestibulum vestibulum "
+  },
+  "About": {
+    "paragraph": "Proin volutpat molestie magna, aliquet molestie risus ullamcorper quis. Phasellus id elementum leo, ut rhoncus augue. Vestibulum vestibulum accumsan ligula, at porta leo blandit non. Phasellus volutpat accumsan luctus. Etiam volutpat faucibus quam. Sed pellentesque justo ut lobortis volutpat. Nunc tincidunt est non nisi tincidunt pretium. Quisque nec nisl quis orci ultricies aliquet ut non orci. Suspendisse non efficitur massa, fringilla feugiat tortor.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Lorem ipsum dolor",
+      "Lorem ipsum dolor",
+      "Lorem ipsum dolor"
+    ],
+    "Why2": [
+      "Lorem ipsum dolor",
+      "Lorem ipsum dolor",
+      "Lorem ipsum dolor",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project",
+      "smallImage": "img/images/1.jpg"
+    },
+    {
+      "title": "Project",
+      "smallImage": "img/images/2.jpg"
+    },
+    {
+      "title": "Project",
+      "smallImage": "img/images/3.jpg"
+    },
+    {
+      "title": "Project",
+      "smallImage": "img/images/4.jpg"
+    },
+    {
+      "title": "Project",
+      "smallImage": "img/images/5.jpg"
+    },
+    {
+      "title": "Project",
+      "smallImage": "img/images/6.jpg"
+    },
+    {
+      "title": "Project",
+      "smallImage": "img/images/7.jpg"
+    },
+    {
+      "title": "Project",
+      "smallImage": "img/images/8.jpg"
+    },
+    {
+      "title": "Project",
+      "smallImage": "img/images/9.jpg"
+    }
+  ],
+ 
+  "Testimonials": [
+    {
+      "img": "img/testimonials/1.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Taylor Swift"
+    },
+    {
+      "img": "img/testimonials/1.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Taylor Swift"
+    },
+    {
+      "img": "img/testimonials/1.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Taylor Swift"
+    }
+  ],
+
+  "Contact": {
+    "address": "1234 Doha, Qatar ",
+    "phone": "+974 1234 5678",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "instagram.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-wordpress",
+      "title": "Wordpress",
+      "text": "Proin volutpat molestie magna, aliquet molestie risus ullamcorper quis. Phasellus id elementum leo, ut rhoncus augue."
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "Web Development",
+      "text": "Proin volutpat molestie magna, aliquet molestie risus ullamcorper quis. Phasellus id elementum leo, ut rhoncus augue."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Digital Marketing",
+      "text": "Proin volutpat molestie magna, aliquet molestie risus ullamcorper quis. Phasellus id elementum leo, ut rhoncus augue."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Designing",
+      "text": "Proin volutpat molestie magna, aliquet molestie risus ullamcorper quis. Phasellus id elementum leo, ut rhoncus augue."
+    }
+  ]
+}

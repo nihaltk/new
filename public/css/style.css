@@ -133,12 +133,12 @@ hr {
 .navbar-toggle {
   border-radius: 0;
 }
-.navbar-defaults .navbar-toggle:hover, .navbar-defaults .navbar-toggle:focus {
+.navbar-defaults .navbar-toggle, .navbar-defaults .navbar-toggle:focus {
   background-color: transparent;
-  border-color: #fff;
+  border-color: #c0275d !important;
 }
-.navbar-defaults .navbar-toggle:hover > .icon-bar {
-  background-color: #608dfd;
+.navbar-defaults .navbar-toggle > .icon-bar {
+  background-color: #c0275d !important;
 }
 .section-title {
   margin-bottom: 70px;

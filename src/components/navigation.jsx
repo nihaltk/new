@@ -1,6 +1,6 @@
 export const Navigation = (props) => {
   return (
-    <nav id='menu' className='navbar navbar-defaults navbar-fixed-top'>
+    <nav id='menu' className='navbar navbar-defaults navbar-fixed-top scrolled-nav'>
       <div className='container'>
         <div className='navbar-header'>
           <button
